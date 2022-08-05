@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @x8er
-- 👀 I’m interested in Frontend development
+- 👀 I'm a Frontend Developer
 - 📫 How to reach me: x8er@yandex.com
